@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 	Author:		AAS
-	Website:	http://github.com/aas/neon-pastele
+	Website:	http://github.com/aas/neon-pastel
 -->
-<style-scheme version="1.0" name="Neon Pastele">
+<style-scheme version="1.0" name="Neon Pastel">
   <style name="AddedLine" foreground="#c0ff20"/>
   <style name="Binding" bold="true"/>
   <style name="Comment" foreground="#808080"/>
