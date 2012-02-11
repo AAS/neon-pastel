@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Author:		AAS
+	Website:	http://github.com/aas/neon-pastele
+-->
+<style-scheme version="1.0" name="Neon Pastele">
+  <style name="AddedLine" foreground="#c0ff20"/>
+  <style name="Binding" bold="true"/>
+  <style name="Comment" foreground="#808080"/>
+  <style name="CurrentLine" background="#202020"/>
+  <style name="CurrentLineNumber" foreground="#808080" bold="true"/>
+  <style name="DiffFile" foreground="#87b3cd"/>
+  <style name="DiffLocation"/>
+  <style name="DisabledCode" foreground="#5b6e42"/>
+  <style name="Doxygen.Comment" foreground="#808080" italic="true"/>
+  <style name="Doxygen.Tag" foreground="#808080" bold="true"/>
+  <style name="Field" bold="true"/>
+  <style name="JsGlobalVar" foreground="#e1b78c"/>
+  <style name="JsImportVar" foreground="#ff80ff"/>
+  <style name="JsScopeVar"/>
+  <style name="Keyword" foreground="#c0ff20" bold="true"/>
+  <style name="Label" foreground="#ffffe6" background="#cc66ff" bold="true"/>
+  <style name="LineNumber" foreground="#606060" background="#202020"/>
+  <style name="Link" background="#4c4c4c" italic="true"/>
+  <style name="Local" foreground="#ff8080"/>
+  <style name="Number" foreground="#f57900" bold="true"/>
+  <style name="Occurrences"/>
+  <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
+  <style name="Occurrences.Unused" foreground="#ffaa00"/>
+  <style name="Operator" foreground="#a0a0a0"/>
+  <style name="Parentheses" foreground="#ff0000"/>
+  <style name="Preprocessor" foreground="#ff80ff"/>
+  <style name="QmlExternalId"/>
+  <style name="QmlExternalObjectProperty" foreground="#e1b78c"/>
+  <style name="QmlLocalId" foreground="#ff8080"/>
+  <style name="QmlRootObjectProperty" foreground="#e1b78c"/>
+  <style name="QmlScopeObjectProperty" foreground="#e1b78c"/>
+  <style name="QmlStateName" italic="true"/>
+  <style name="QmlTypeId" foreground="#c0ff20"/>
+  <style name="RemovedLine" foreground="#ff8080"/>
+  <style name="SearchResult" foreground="#ffffff" background="#00007f"/>
+  <style name="SearchScope" foreground="#000000" background="#e6e6e6"/>
+  <style name="Selection" foreground="#ffffff" background="#3399ff"/>
+  <style name="Static" foreground="#e1b78c" bold="true"/>
+  <style name="String" foreground="#87b3cd"/>
+  <style name="Text" foreground="#ffffe6" background="#323232"/>
+  <style name="Type"/>
+  <style name="VirtualMethod" italic="true"/>
+  <style name="VisualWhitespace" foreground="#808080"/>
+</style-scheme>
