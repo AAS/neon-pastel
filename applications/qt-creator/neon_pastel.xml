@@ -38,9 +38,9 @@
   <style name="QmlStateName" italic="true"/>
   <style name="QmlTypeId" foreground="#c0ff20"/>
   <style name="RemovedLine" foreground="#ff8080"/>
-  <style name="SearchResult" foreground="#ffffff" background="#00007f"/>
-  <style name="SearchScope" foreground="#000000" background="#e6e6e6"/>
-  <style name="Selection" foreground="#ffffff" background="#3399ff"/>
+  <style name="SearchResult" foreground="#ffffe6" background="#00007f"/>
+  <style name="SearchScope" foreground="#000000" background="#ffffe6"/>
+  <style name="Selection" foreground="#ffffe6" background="#3399ff"/>
   <style name="Static" foreground="#e1b78c" bold="true"/>
   <style name="String" foreground="#87b3cd"/>
   <style name="Text" foreground="#ffffe6" background="#323232"/>
