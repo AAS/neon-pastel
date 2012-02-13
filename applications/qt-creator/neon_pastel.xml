@@ -11,9 +11,9 @@
   <style name="CurrentLineNumber" foreground="#808080" bold="true"/>
   <style name="DiffFile" foreground="#87b3cd"/>
   <style name="DiffLocation"/>
-  <style name="DisabledCode" foreground="#5b6e42"/>
+  <style name="DisabledCode" foreground="#808080"/>
   <style name="Doxygen.Comment" foreground="#808080" italic="true"/>
-  <style name="Doxygen.Tag" foreground="#808080" bold="true"/>
+  <style name="Doxygen.Tag" foreground="#808080" bold="true" italic="true"/>
   <style name="Field" bold="true"/>
   <style name="JsGlobalVar" foreground="#e1b78c"/>
   <style name="JsImportVar" foreground="#ff80ff"/>
