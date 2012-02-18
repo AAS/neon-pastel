@@ -8,7 +8,7 @@ Tested only with c/c++, python, php, sql, xml, html, css and javascript. Other l
 ## Screenshots
 
 ### Qt Creator by Nokia
-![Neon Pastel in Qt Creator](https://github.com/aas/neon-pastel/raw/master/images/screenshots/qt-creator.png)
+![Neon Pastel in Qt Creator](https://raw.github.com/aas/aas.github.com/master/images/screenshots/neon-pastel/qt-creator.png)
 
 ### TextMate
-![Neon Pastel in TextMate](https://github.com/aas/neon-pastel/raw/master/images/screenshots/textmate.png)
+![Neon Pastel in TextMate](https://raw.github.com/aas/aas.github.com/master/images/screenshots/neon-pastel/textmate.png)
