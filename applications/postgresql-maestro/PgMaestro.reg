@@ -1,0 +1,386 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor]
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\CodeFolding]
+"Enabled"=dword:00000001
+"LineColor"=dword:00A4A0A0
+"HintBackColor"=dword:FF000018
+"HintFontColor"=dword:FF000017
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\CodeInsight]
+"CodeCompletion"=dword:00000001
+"CodeDelay"=dword:0000012C
+"CodeCase"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\Display]
+"VisibleRightMargin"=dword:00000000
+"VisibleGutter"=dword:00000001
+"RightMargin"=dword:00000050
+"GutterWidth"=dword:00000014
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\Display\EditorFont]
+"Charset"=dword:00000001
+"Color"=dword:FF000008
+"Height"=dword:FFFFFFF0
+"Name"="Consolas"
+"Pitch"=dword:00000000
+"Size"=dword:0000000C
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\Display\EditorFont\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\General]
+"AutoIndent"=dword:00000000
+"InsertMode"=dword:00000001
+"SyntaxHighlight"=dword:00000001
+"ShowHyperlinks"=dword:00000001
+"ShowLineNums"=dword:00000001
+"SmartTabs"=dword:00000000
+"TabStops"=dword:00000004
+"UndoLimit"=dword:000000FA
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn]
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\CommentAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:FF000005
+"Foreground"=dword:00800000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\CommentAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000001
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\DefaultAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000000
+"Background"=dword:FF000005
+"Foreground"=dword:FF000008
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\DefaultAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\IdentifierAttr]
+"UseDefForeground"=dword:00000001
+"UseDefBackground"=dword:00000001
+"Background"=dword:FF000005
+"Foreground"=dword:FF000008
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\IdentifierAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\KeyWordAttr]
+"UseDefForeground"=dword:00000001
+"UseDefBackground"=dword:00000001
+"Background"=dword:FF000005
+"Foreground"=dword:FF000008
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\KeyWordAttr\Style]
+"fsBold"=dword:00000001
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\NumberAttr]
+"UseDefForeground"=dword:00000001
+"UseDefBackground"=dword:00000001
+"Background"=dword:FF000005
+"Foreground"=dword:FF000008
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\NumberAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\SelectedAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000000
+"Background"=dword:FF00000D
+"Foreground"=dword:FF000005
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\SelectedAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\StringAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000000
+"Background"=dword:FF000005
+"Foreground"=dword:FF000008
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\StringAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\SymbolAttr]
+"UseDefForeground"=dword:00000001
+"UseDefBackground"=dword:00000001
+"Background"=dword:FF000005
+"Foreground"=dword:FF000008
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\SymbolAttr\Style]
+"fsBold"=dword:00000001
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\VariableAttr]
+"UseDefForeground"=dword:00000001
+"UseDefBackground"=dword:00000001
+"Background"=dword:FF000005
+"Foreground"=dword:FF000008
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\PHPSyn\VariableAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn]
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\CommentAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:00323232
+"Foreground"=dword:00A0A0A0
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\CommentAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\DataTypeAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:00323232
+"Foreground"=dword:00FF80FF
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\DataTypeAttr\Style]
+"fsBold"=dword:00000001
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\DefaultAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000000
+"Background"=dword:00323232
+"Foreground"=dword:00E6FFFF
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\DefaultAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\IdentifierAttr]
+"UseDefForeground"=dword:00000001
+"UseDefBackground"=dword:00000001
+"Background"=dword:00323232
+"Foreground"=dword:00E6FFFF
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\IdentifierAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\KeyAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:00323232
+"Foreground"=dword:0020FFC0
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\KeyAttr\Style]
+"fsBold"=dword:00000001
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\LinkAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:00323232
+"Foreground"=dword:008080FF
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\LinkAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\NumberAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:00323232
+"Foreground"=dword:000080FF
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\NumberAttr\Style]
+"fsBold"=dword:00000001
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\SelectedAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000000
+"Background"=dword:FF00000D
+"Foreground"=dword:FF000005
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\SelectedAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\StringAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:00323232
+"Foreground"=dword:00F0CAA6
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\StringAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\SymbolAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:00323232
+"Foreground"=dword:00C0C0C0
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\SQLSyn\SymbolAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn]
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\AttributeAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:FF000005
+"Foreground"=dword:00000080
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\AttributeAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\AttrValueAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:FF000005
+"Foreground"=dword:00800000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\AttrValueAttr\Style]
+"fsBold"=dword:00000001
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\CommentAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000000
+"Background"=dword:1FFFFFFF
+"Foreground"=dword:FF000011
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\CommentAttr\Style]
+"fsBold"=dword:00000001
+"fsItalic"=dword:00000001
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\DefaultAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000000
+"Background"=dword:FF000005
+"Foreground"=dword:FF000008
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\DefaultAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\ElementAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:FF000005
+"Foreground"=dword:00000080
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\ElementAttr\Style]
+"fsBold"=dword:00000001
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\InstructAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:FF000005
+"Foreground"=dword:00FF0000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\InstructAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\SelectedAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000000
+"Background"=dword:FF00000D
+"Foreground"=dword:FF000005
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\SelectedAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\StringAttr]
+"UseDefForeground"=dword:00000001
+"UseDefBackground"=dword:00000001
+"Background"=dword:FF000005
+"Foreground"=dword:FF000008
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\StringAttr\Style]
+"fsBold"=dword:00000001
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\SymbolAttr]
+"UseDefForeground"=dword:00000000
+"UseDefBackground"=dword:00000001
+"Background"=dword:FF000005
+"Foreground"=dword:00FF0000
+
+[HKEY_CURRENT_USER\Software\SQL Maestro Group\Maestro\PostgreSQL\Options\Editor\XMLSyn\SymbolAttr\Style]
+"fsBold"=dword:00000000
+"fsItalic"=dword:00000000
+"fsUnderline"=dword:00000000
+"fsStrikeOut"=dword:00000000
