@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>AAS, based on Zenburnesque textmate theme by William D. Neumann</string>
-	<key>comment</key>
-	<string>http://github.com/aas/neon-pastel</string>
+	<string>AAS</string>
 	<key>name</key>
 	<string>Neon Pastel</string>
 	<key>settings</key>
+	<key>comment</key>
+	<string>http://github.com/aas/neon-pastel</string>
 	<array>
 		<dict>
 			<key>settings</key>
@@ -20,7 +20,7 @@
 				<key>foreground</key>
 				<string>#FFFFE6</string>
 				<key>invisibles</key>
-				<string>#A8A8A8</string>
+				<string>#444444</string>
 				<key>lineHighlight</key>
 				<string>#202020</string>
 				<key>selection</key>
@@ -34,61 +34,26 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#808080</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
-			<string>Directive</string>
+			<string>keywords</string>
 			<key>scope</key>
-			<string>keyword.other.directive</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Line-number directives</string>
-			<key>scope</key>
-			<string>keyword.other.directive.line-number</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Characters</string>
-			<key>scope</key>
-			<string>constant.character</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#80E0E0</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>String</string>
-			<key>scope</key>
-			<string>string, storage.type.string</string>
+			<string>keyword - keyword.operator, keyword.operator.logical, storage - string, constant.language, support.type, support.modifier, variable.language</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#87B3CD</string>
+				<string>#C0FF20</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
-			<string>Number</string>
+			<string>Numeric</string>
 			<key>scope</key>
 			<string>constant.numeric</string>
 			<key>settings</key>
@@ -99,248 +64,99 @@
 				<string>#FF8000</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
-			<string>Floating-point numbers</string>
+			<string>String</string>
 			<key>scope</key>
-			<string>constant.numeric.floating-point</string>
+			<string>string</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold underline</string>
 				<key>foreground</key>
-				<string>#FF8000</string>
+				<string>#87B3CD</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
-			<string>Built-in constant</string>
+			<string>Escaped string</string>
 			<key>scope</key>
-			<string>constant.language</string>
+			<string>constant.character.escape, constant.character.entity</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
-				<string>#C0FF20</string>
+				<string>#66FFFF</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
-			<string>User-defined constant</string>
+			<string>Entity</string>
 			<key>scope</key>
-			<string>constant.character, constant.other</string>
+			<string>entity.name</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
+				<key>foreground</key>
+				<string>#E1B78C</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
-			<string>Variable</string>
+			<string>Variables</string>
 			<key>scope</key>
-			<string>variable.parameter, variable.other</string>
+			<string>variable</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#FF8080</string>
 			</dict>
 		</dict>
+
+		<!-- MISC -->
+
 		<dict>
 			<key>name</key>
-			<string>Language Keyword</string>
+			<string>preprocessor</string>
 			<key>scope</key>
-			<string>keyword - keyword.other.unit, keyword.operator.logical.python</string>
+			<string>meta.preprocessor keyword</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
-				<string>#C0FF20</string>
+				<string>#C080C0</string>
 			</dict>
 		</dict>
+
+		<!-- PUNCTUATION IS BROKEN IN SUBLIME/TEXTMATE syntax files, see pythons () for example.
 		<dict>
 			<key>name</key>
-			<string>Module Keyword</string>
+			<string>punctuation</string>
 			<key>scope</key>
-			<string>entity.name.module, support.other.module</string>
+			<string>punctuation - comment - string, meta.tuple, meta.braces</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
-				<string>#C0FF20</string>
+				<string>#A0A0A0</string>
 			</dict>
 		</dict>
+ 		-->
+
+		<!-- XML -->
 		<dict>
 			<key>name</key>
-			<string>Operators</string>
+			<string>tag</string>
 			<key>scope</key>
-			<string>keyword.operator,punctuation.definition - punctuation.definition.string, punctuation.section, punctuation.definition.tuple</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#A8A8A8</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Floating-point infix operators</string>
-			<key>scope</key>
-			<string>source.ocaml keyword.operator.symbol.infix.floating-point</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Floating-point prefix operators</string>
-			<key>scope</key>
-			<string>source.ocaml keyword.operator.symbol.prefix.floating-point</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Storage Types</string>
-			<key>scope</key>
-			<string>storage.type</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#C0FF20</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Variant Types</string>
-			<key>scope</key>
-			<string>entity.name.class.variant</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#C0FF20</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Storage</string>
-			<key>scope</key>
-			<string>storage</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#C0FF20</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Type name</string>
-			<key>scope</key>
-			<string>entity.name.type</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#E1B78C</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Inherited class</string>
-			<key>scope</key>
-			<string>entity.other.inherited-class</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#E1B78C</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Function name</string>
-			<key>scope</key>
-			<string>entity.name.function</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#E1B78C</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Type name</string>
-			<key>scope</key>
-			<string>storage.type.user-defined</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#E1B78C</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Class type name</string>
-			<key>scope</key>
-			<string>entity.name.type.class.type</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#E1B78C</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tag</string>
-			<key>scope</key>
-			<string>meta.tag</string>
+			<string>entity.name.tag, punctuation.definition.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#C0FF20</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
-			<string>Tag name</string>
-			<key>scope</key>
-			<string>entity.name.tag</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#C0FF20</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tag attribute</string>
+			<string>tag</string>
 			<key>scope</key>
 			<string>entity.other.attribute-name</string>
 			<key>settings</key>
@@ -349,8 +165,23 @@
 				<string>#E1B78C</string>
 			</dict>
 		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>tag</string>
+			<key>scope</key>
+			<string>text.xml punctuation.separator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A0A0A0</string>
+			</dict>
+		</dict>
+
 	</array>
 	<key>uuid</key>
-	<string>CA52CD3C-C356-4A74-897E-64AD255FF27F</string>
+	<string>1712230E-8E5B-1111-3333-A1053A37190B</string>
+  <key>colorSpaceName</key>
+  <string>sRGB</string>
 </dict>
 </plist>
