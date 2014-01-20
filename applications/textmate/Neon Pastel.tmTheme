@@ -6,9 +6,9 @@
 	<string>AAS</string>
 	<key>name</key>
 	<string>Neon Pastel</string>
-	<key>settings</key>
 	<key>comment</key>
 	<string>http://github.com/aas/neon-pastel</string>
+	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
