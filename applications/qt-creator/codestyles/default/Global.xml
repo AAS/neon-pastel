@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorCodeStyle>
+<!-- Written by QtCreator 3.1.1, 2014-05-28T09:44:24. -->
 <qtcreator>
  <data>
   <variable>CodeStyleData</variable>
@@ -7,7 +8,7 @@
    <value type="bool" key="AutoSpacesForTabs">false</value>
    <value type="int" key="IndentSize">4</value>
    <value type="int" key="PaddingMode">2</value>
-   <value type="bool" key="SpacesForTabs">true</value>
+   <value type="bool" key="SpacesForTabs">false</value>
    <value type="int" key="TabSize">4</value>
   </valuemap>
  </data>
